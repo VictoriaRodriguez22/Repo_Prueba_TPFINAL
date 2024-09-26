@@ -1,0 +1,17 @@
+/* Ajusta el estilo del componente aquí */
+.hero-section {
+    position: relative;
+    height: 100vh;
+    background-image: url('https://th.bing.com/th/id/OIP.ZVZ92gvAW2ldcHWq7VAObwHaE7?pid=ImgDet&w=626&h=417&rs=1');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
